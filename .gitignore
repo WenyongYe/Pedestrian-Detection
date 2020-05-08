@@ -1,0 +1,7 @@
+export/
+import/images/neg/
+import/images/pos/
+import/images/pedestrian/
+*.asv
+video/swd_results_original.avi
+video/swd_results_pp.avi

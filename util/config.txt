@@ -1,0 +1,2 @@
+samplingCount,balanceData,prepro,preproMethod,featureExtraction,featureDescriptor,dd,classifier,knnVal,swd
+3000,0,1,AGC,1,HOG,CV,SVM,50,1
